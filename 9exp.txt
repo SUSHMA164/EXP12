@@ -5,3 +5,4 @@ welcome to cse
 old is gold
 health is wealth
 hello everyone
+today is wednesday
